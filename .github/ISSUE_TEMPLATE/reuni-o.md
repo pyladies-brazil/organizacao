@@ -14,6 +14,7 @@ _Este template deve ser editado com os itens a serem discutidos durante a reuni�
 
 - Data: <! –– data ––>  
 - Participantes:
+
 Capítulo| Nome e sobrenome | @GitHub ou e-mail (opcional) | 
  --| --| --|
 
