@@ -15,16 +15,16 @@ _Este template deve ser editado com os itens a serem discutidos durante a reuni�
 - Data: <! –– data ––>  
 - Participantes:
 Capítulo| Nome e sobrenome | @GitHub ou e-mail (opcional) | 
-| --| --| --|
+ --| --| --|
 
 ## Ata
 
-_Adicione os itens a serem discutidos durante a reunião._
+_Adicione os itens a serem discutidos durante a reunião. Certifique-se de que você estará presente na reunião, pois a ata só pode ser editada por quem a criou_
 
 ### Acompanhamento das ações pendentes da última reunião
 
-Atividade| Responsável | Link útil| Observações
-| --| --| --| --|
+Atividade| Responsável | Link útil| Observações|
+ --| --| --| --|
 
 ### Itens a serem debatidos
 
@@ -38,4 +38,6 @@ Atividade| Responsável | Link útil| Observações
 ### Ações para serem realizadas
 
 Atividade| Responsável | Link útil|
-| --| --| --|
+ --| --| --|
+
+cc @<GitHub team do grupo de trabalho responsável pela reunião>
