@@ -6,8 +6,11 @@ As atividades e ações estão organizadas por issue, que estão classificadas p
 
 Para contribuir, basta comentar na issue desejada ou atribuir a si mesma. Quaisquer dúvidas podem  ser levadas à lista de e-mail ou Slack.
 
+# Templates
 
-# Visão geral do repositório
+Estão disponibilizados na pasta [templates](#templates) modelos de resposta para contatos originados de empresas para a rede PyLadies Brasil.
+
+# Visão geral para registro de issue
 
 Abra uma issue usando o template correspondente ao tipo de registro que você deseja fazer:
 
