@@ -28,3 +28,7 @@ Toda colaboração para o debate é bem vinda. Deixe seu comentário!
 Esse template serve para registrar eventos e campanhas publicitárias realizadas pela PyLadies Brasil. Essas são Issues sob a etiqueta "evento" associada a do grupo de trabalho correspondente.
 
 Nas issues abertas estão as propostas de atividades a ser promovida em nome da rede de comunidades de PyLadies no Brasil ou campanha publicitária para divulgação de alguma ação. Logo após a conclusão da atividade ou atendimento da demanda, a issue deve ser fechada.
+
+## Prestação de contas financeira
+
+Você pode encontrar o fluxo de caixa da PyLadies Brasil no arquivo [Fluxo de Caixa](fluxo-caixa.md).
