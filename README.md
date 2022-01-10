@@ -32,3 +32,7 @@ Nas issues abertas estão as propostas de atividades a ser promovida em nome da 
 ## Prestação de contas financeira
 
 Você pode encontrar o fluxo de caixa da PyLadies Brasil no arquivo [Fluxo de Caixa](fluxo-caixa.md).
+
+## Acesso às contas
+
+O acesso as senhas das contas da PyLadies Brasil pode ser disponibilizado através de solicitação enviada pelo [formulário "Pedido de Acesso às Credenciais"](https://forms.gle/6L43VHFbdPu1e2PV8).
