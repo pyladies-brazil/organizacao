@@ -1,4 +1,4 @@
-# Gestão Financeira da Rede PyLadies Brasil
+# Regras para Gestão Financeira da Rede PyLadies Brasil
 
 Este documento tem como objetivo estabelecer critérios e fluxo de autorização para utilização de recursos financeiros da Rede de comunidades PyLadies Brasil, a qual tem como foco instigar mulheres (cis e trans) e pessoas não-binárias a serem participantes ativas e líderes da comunidade Python.
 
@@ -74,3 +74,7 @@ Para que seja válida uma candidatura, a PyLady precisa:
 \* As representantes eleitas em 2022 ([Ana Cecília Vieira](@cecivieira), [Jessica Temporal](@jtemporal) e [Juliana Ferreira](@julianafalves)) na Assembleia Extraordinária de 22 de Novembro (​​https://github.com/pyladies-brazil/organizacao/issues/92) cumprirão o mandato de transição iniciado no mesmo mês do ano citado até dezembro de 2023.
 
 \** Exemplos de eventos e iniciativas da rede: Grupos de trabalho, PyLadies BR Conf, Grupos de Estudo.
+
+#### 6. Da alteração deste documento
+Qualquer ajuste neste documento deverá ser apresentado, discutido e aprovado na Assembleia Geral PyLadies Brasil e entrará em vigor imediatamente. Cabe ao GT Financeiro refletir os ajustes aprovados em Assembleia no documento presente no repositório de organização no GitHub ([Regras para Gestão Financeira da Rede PyLadies Brasil](https://github.com/pyladies-brazil/organizacao/blob/main/gestao-financeira-rede.md)).
+
