@@ -31,7 +31,7 @@ Nas issues abertas estão as propostas de atividades a ser promovida em nome da 
 
 ## Prestação de contas financeira
 
-Você pode encontrar o fluxo de caixa da PyLadies Brasil no arquivo [Fluxo de Caixa](fluxo-caixa.md).
+Você pode encontrar o fluxo de caixa da PyLadies Brasil no arquivo [Fluxo de Caixa](fluxo-caixa.md). As regras sobre a Gestão Financeira da Rede PyLadies Brasil pode ser encontrada [em arquivo homônimo neste repositório](gestao-financeira-rede.md).
 
 ## Acesso às contas
 
