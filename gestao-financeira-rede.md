@@ -71,6 +71,6 @@ Para que seja válida uma candidatura, a PyLady precisa:
 
 **Parágrafo único:** A votação ocorrerá de forma anônima na Assembleia Geral da PyLadies Brasil que, tradicionalmente, ocorre durante o evento Python Brasil, sendo eleitas as 3 candidatas mais votadas. O resultado da votação deverá ser divulgado durante a mesma Assembleia e registrado em ata.
 
-\* As representantes eleitas em 2022 cumprirão o mandato de transição iniciado em novembro do citado ano até dezembro de 2023.
+\* As representantes eleitas em 2022 ([Ana Cecília Vieira](@cecivieira), [Jessica Temporal](@jtemporal) e [Juliana Ferreira](@julianafalves)) na Assembleia Extraordinária de 22 de Novembro (​​https://github.com/pyladies-brazil/organizacao/issues/92) cumprirão o mandato de transição iniciado no mesmo mês do ano citado até dezembro de 2023.
 
 \** Exemplos de eventos e iniciativas da rede: Grupos de trabalho, PyLadies BR Conf, Grupos de Estudo.
