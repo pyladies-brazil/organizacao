@@ -11,6 +11,7 @@
 | 19/10/2022 | Rendimento bancário entre 08/03/2022 e 19/10/2022 | R$ 581,38    | Entrada de dinheiro |
 | 20/10/2022 | Doação da PyLadies Rio                            | R$ 1.500,00  | Entrada de dinheiro |
 | 24/07/2023 | Rendimento bancário entre 19/10/2021 e 24/07/2023 | R$ 976,98    | Entrada de dinheiro |
-|            | TOTAL                                             | R$ 12.266,79 | Entrada de dinheiro |
+| 24/07/2023 | Rendimento bancário entre 24/07/2023 e 21/05/2024 | R$ 915,18    | Entrada de dinheiro |
+|            | TOTAL                                             | R$ 13.182,59 | Entrada de dinheiro |
 
 * A presente reestruturação financeira foi iniciada na Assembleia Geral da rede PyLadies Brasil em 16 out. 2021 ([ata](https://github.com/pyladies-brazil/organizacao/issues/79))
